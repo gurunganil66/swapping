@@ -2,4 +2,6 @@ I am just testing to same this text file and pushing it into git repo!
 If it is successfully pushed to my repo then i will write success down below.
 
 
+I am going to use git pull origin main. from my local terminal
+
 
